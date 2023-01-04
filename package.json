@@ -1,0 +1,21 @@
+{
+  "name": "annotated_portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "shadow-cljs release --verbose app"
+  },
+  "devDependencies": {
+    "shadow-cljs": "^2.19.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "highlight.js": "11.1.0",
+    "html2canvas": "^1.4.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}

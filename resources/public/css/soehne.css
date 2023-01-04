@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "Söhne";
+    src: url("/fonts/soehne-web-halbfett.woff2") format("woff2"),
+         url("/fonts/soehne-web-halbfett.woff")  format("woff2"),
+         url("/fonts/soehne-web-halbfett.eot")   format("eot");
+    font-weight: 500;
+    font-style: regular;
+}
+
+@font-face {
+    font-family: "Söhne";
+    src: url("/fonts/soehne-web-buch.woff2") format("woff2"),
+         url("/fonts/soehne-web-buch.woff")  format("woff2"),
+         url("/fonts/soehne-web-buch.eot")   format("eot");
+    font-weight: 300;
+    font-style: regular;
+}
+
+@font-face {
+    font-family: "Söhne";
+    src: url("/fonts/soehne-web-buch-kursiv.woff2") format("woff2"),
+         url("/fonts/soehne-web-buch-kursiv.woff")  format("woff2"),
+         url("/fonts/soehne-web-buch-kursiv.eot")   format("eot");
+    font-weight: 300;
+    font-style: italic;
+}
