@@ -1,6 +1,5 @@
 # Radial Radial Referencer
-This is an pedagogical experiment of some kind of tool to deal with design references. 
-The first version of this tool, most likely the one found in this commit, was made for the course [Studio I](https://utbildningsinfo.mau.se/kurs/kursplan/KD417A/20221) at Malmö University.
+This is an pedagogical experiment prototyping a workflow for dealing with design references. This repository features the source code, but lacks the commercial fonts used in the original version.
 
 For more information, see read [the case study on my website](https://motform.org/malmo-university.html).
 
